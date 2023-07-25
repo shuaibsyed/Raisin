@@ -1,4 +1,4 @@
-/* Raisin by Shuaib Syed(ssyed1, 117832990, 0106) */
+/* Raisin by Shuaib Syed */
 
 /* I pledge on my honor that I have not given or received any
 unauthorized assitance on this assignment. */
